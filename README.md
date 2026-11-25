@@ -23,7 +23,10 @@
 
 ## 给别人装（一键安装器）
 
-把 `dist/` 整个拷过去，双击 `install.bat`。它会：
+不想碰源码的话，直接下现成的：[Releases · v1.0.0](https://github.com/TH991/antigravity-zh/releases/tag/v1.0.0)
+里的 `AntigravityZh-1.0.0.zip`（24 KB），解压后双击 `install.bat`。
+
+用源码里的也行：把 `dist/` 整个拷过去，双击 `install.bat`。它会：
 
 1. 自动找 Antigravity.exe（默认路径 → 注册表卸载项 → 开始菜单快捷方式 → `Programs` 目录扫描）；
 2. 检查 node（没有就提示，仍可装，但只能代理不能汉化）；
