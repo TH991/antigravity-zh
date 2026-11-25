@@ -11,7 +11,8 @@
 | `dict-ext.json` | 第二批词条（189 条），已并入 `dict.json`，留档备查 |
 | `add-dict.mjs` | 把新采集的 `{原文:译文}` 批量并入 `dict.json`（去重、计数） |
 | `inject.mjs` | 注入器。`node inject.mjs [端口] [--watch] [--shot 输出]`。不带 `--watch` 是装一次就走；带了就常驻，页面刷新/导航/换窗口后自动补装，CDP 掉线时自己退出 |
-| `launcher/launch-antigravity-proxy.ps1` | 启动器：一条命令起「走代理 + 自动汉化」的实例。`-NoTranslate` 只代理不汉化，`-NoLaunch` 只做自检 |
+| `launcher/launch-antigravity-proxy.ps1` | 启动器：一条命令起「走代理 + 自动汉化」的实例。`-NoTranslate` 只代理不汉化，`-NoLaunch` 只做自检，`-Proxy "socks5://127.0.0.1:1080"` 手动指定代理 |
+| `dist/install.bat` | **安装器入口**（给别人 / 换电脑用）：双击运行，自动找 Antigravity、问代理协议与地址端口、把 `dist/payload` 装到 `%LOCALAPPDATA%\AntigravityZh\`、建「Antigravity 中文」快捷方式 |
 | `dump.mjs` | 导出当前界面可见文本节点（建词典用）。`node dump.mjs [端口] > dump.json` |
 | `collect.mjs` | 批量采集：依次点开设置分区与菜单，去重后写 `collected.json` |
 | `check.mjs` | 覆盖率自检：逐个分区 dump，列出仍含英文且不在词典里的条目，写 `uncovered.json` |
@@ -20,10 +21,38 @@
 | `probe-menu.mjs` | 右键菜单探测：确认右键菜单是否在 DOM 里（结论：不在，是原生菜单） |
 | `drive.mjs` | CDP 动作脚本：`dump` / `click:<文本>` / `clicklabel:<子串>` / `rclick:<文本>` / `hover:<文本>` / `key:<Escape|Enter>` / `labels` / `shot:<文件>` / `wait:<毫秒>` / `eval:<js>` |
 
+## 给别人装（一键安装器）
+
+把 `dist/` 整个拷过去，双击 `install.bat`。它会：
+
+1. 自动找 Antigravity.exe（默认路径 → 注册表卸载项 → 开始菜单快捷方式 → `Programs` 目录扫描）；
+2. 检查 node（没有就提示，仍可装，但只能代理不能汉化）；
+3. 问代理怎么走 —— **选协议（http / socks5）→ 填 IP → 填端口**，当场用 TCP + 经代理请求 GitHub 验证，
+   失败可以重输 / 跳过 / 改成不走代理；
+4. 把 `payload` 装到 `%LOCALAPPDATA%\AntigravityZh\`（旧的先改名备份），写 `settings.json`；
+5. 在桌面和开始菜单建「Antigravity 中文」快捷方式。
+
+卸载：`dist\uninstall.bat`（只删安装目录和快捷方式，不碰 Antigravity 本体）。
+
+安装器不动系统代理、不改 hosts、不需要管理员权限。想换代理又不想重装，直接改
+`%LOCALAPPDATA%\AntigravityZh\payload\settings.json`：
+
+```json
+{ "mode": "proxy", "proxy": "http://127.0.0.1:7897" }
+```
+
+`"mode": "direct"` 表示只汉化、不走代理。
+
+静默参数（自己写脚本时用）：
+
+```powershell
+install.ps1 -Yes -Mode proxy -Proxy "socks5://127.0.0.1:1080" -InstallDir D:\Tools\AntigravityZh -NoShortcut
+```
+
 ## 怎么用
 
 ```powershell
-# 一步到位：带代理 + 带汉化（双击桌面快捷方式等价于此）
+# 一步到位：带代理 + 带汉化（双击桌面「Antigravity 中文」等价于此）
 powershell -NoProfile -ExecutionPolicy Bypass -File launcher\launch-antigravity-proxy.ps1
 
 # 只代理、不汉化
@@ -33,10 +62,11 @@ powershell ... -File launcher\launch-antigravity-proxy.ps1 -NoTranslate
 powershell ... -File launcher\launch-antigravity-proxy.ps1 -NoLaunch
 ```
 
-启动器做的事：清 `ELECTRON_RUN_AS_NODE` → 设 `HTTPS_PROXY/HTTP_PROXY/NODE_USE_ENV_PROXY/NO_PROXY`
+启动器做的事：清 `ELECTRON_RUN_AS_NODE` → 读 `settings.json` 决定走不走代理、走哪个
+→ 设 `HTTPS_PROXY/HTTP_PROXY/NODE_USE_ENV_PROXY/NO_PROXY`
 → 起 Antigravity（带 `--proxy-server`；要汉化时再加 `--remote-debugging-port=9223`）
 → 等 CDP 就绪（最多 30 秒）→ 后台拉起 `inject.mjs --watch`，日志在
-`%LOCALAPPDATA%\AntigravityProxy\inject.log`。
+`<安装目录>\payload\logs\inject.log`（源码运行时是项目目录下的 `logs/`）。
 
 手动装一次也行（应用已经用启动器开着的时候）：
 

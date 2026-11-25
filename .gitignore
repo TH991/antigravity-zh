@@ -13,3 +13,4 @@ zh-01-settings.png
 
 # 截图不入库（可能带账户信息）
 *.png
+release/
