@@ -3,6 +3,14 @@ Antigravity 中文版（运行时注入）
 
 这个目录里的东西被「Antigravity 中文」快捷方式调用，日常不需要手动运行。
 
+适用版本
+--------
+Antigravity 2.35.1（Electron 44.9.1 / Chrome 152）。也验证过 2.35.0。
+其他版本未验证：注入走 CDP + 文本匹配，小版本一般可用；大版本改布局/文案会漏翻，
+但不会损坏安装（不改 app.asar）。换版本后可跑：
+    node inject.mjs 9223        （看是否 installed、词条数）
+    node probe-update.mjs 9223  （看残留英文前 25 条）
+
 文件说明
 --------
 inject.mjs                     词典注入器（连接 Antigravity 的调试端口，往页面里装翻译层）
