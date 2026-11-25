@@ -1,0 +1,15 @@
+﻿# 临时采集文件
+dump.json
+dump2.json
+out-appearance.json
+s2-main.json
+s2-settings.json
+collect.err.txt
+dump.err.txt
+inj.err.txt
+*.err.txt
+# 空白截图（采集时窗口在屏幕外拍的）
+zh-01-settings.png
+
+# 截图不入库（可能带账户信息）
+*.png

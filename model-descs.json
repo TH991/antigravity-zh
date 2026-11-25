@@ -1,0 +1,38 @@
+[
+  {
+    "model": "Gemini 4 Neon高新建",
+    "desc": ""
+  },
+  {
+    "model": "Gemini 4 Carbon中新建",
+    "desc": ""
+  },
+  {
+    "model": "Gemini 4 Argon中即将下线",
+    "desc": ""
+  },
+  {
+    "model": "Gemini 4 Hydrogen中新建",
+    "desc": ""
+  },
+  {
+    "model": "编排器Gemini 4 Neon 高新建",
+    "desc": ""
+  },
+  {
+    "model": "Gemini 3.8 Flash中即将下线",
+    "desc": ""
+  },
+  {
+    "model": "Claude Opus 5.5中新",
+    "desc": ""
+  },
+  {
+    "model": "Claude Sonnet 5.5中新",
+    "desc": ""
+  },
+  {
+    "model": "GPT-OSS 120B（中）注意",
+    "desc": ""
+  }
+]

@@ -1,0 +1,1958 @@
+[
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Antigravity",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Workspace",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "View",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Window",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "New Conversation",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Automations",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Customizations",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Projects",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Conversations",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "AI Model Identity Inquiry",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "14m",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Settings",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "H1",
+    "role": "",
+    "text": "Hey <user>, what should we build today?",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "This Computer",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "No Project",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "P",
+    "role": "",
+    "text": "Ask anything, @ to mention, / for actions",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Gemini 4 Neon",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "High",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Default",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View",
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "General",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Application",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Appearance",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Shortcuts",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Notifications",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Models",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Browser",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "H2",
+    "role": "",
+    "text": "Not in Project",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Give Feedback",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "<user> th",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "<redacted-email>",
+    "scope": [
+      "settings/General",
+      "settings/Application",
+      "settings/Appearance",
+      "settings/Shortcuts",
+      "settings/Notifications",
+      "settings/Models",
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Configure agent execution, queued message delivery, and permissions.",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Interface Layout",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Knowledge Work",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Simplified interface for research, writing, and everyday tasks.",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Software Engineering",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Full interface for coding, developer tools, and managing agents.",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Permissions",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Configure what the agent can do in local and remote conversations.",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "A",
+    "role": "",
+    "text": "Learn more",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "This computer",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Controls the actions the agent can take.",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Remote",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Controls permissions for remote conversations.",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Turbo",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Advanced",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Input Box",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Queued messages",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Configure when follow-up messages are sent.",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Queue",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Send Immediately",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Keyboard shortcuts",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Send message",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Choose which key sends a message in the chat composer.",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Enter",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Ctrl+Enter",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Voice mode",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Voice",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "The voice used in Voice mode. Powered by Gemini Live.",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Not set",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Change",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Microphone",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Input device for voice mode and dictation.",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "System default",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Volume",
+    "scope": [
+      "settings/General",
+      "settings/Notifications"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "How loud Antigravity's voice is.",
+    "scope": [
+      "settings/General"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Manage Antigravity app settings.",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Prevent sleep",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Prevent the computer from sleeping while the app is running.",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Keep in menu bar",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Keep the app accessible from the menu bar and running in the background when all windows are closed.",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Remote Control",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Enable Remote Control",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Work with local agents from another device.",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Notification settings",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "To modify notification settings, open your operating system's system preferences.",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Open System Preferences",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Version",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "App version",
+    "scope": [
+      "settings/Application"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Advanced Settings",
+    "scope": [
+      "settings/Application",
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Configure the agent's visual theme and display preferences.",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Chat",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Conversation steps",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Choose how much detail is shown during a conversation.",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Verbose",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Theme",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Contrast",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Strong",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Font",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Google Sans",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Font size",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "14px",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Light Theme",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Preset",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Default Light",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Background",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Foreground",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Accent",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Code Preview",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Dark Theme",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Default Dark",
+    "scope": [
+      "settings/Appearance"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Keyboard shortcuts for quick navigation and control.",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Navigation",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Open Conversation Picker",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Ctrl",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Open File Search",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Open Command Palette",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Shift",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Close Tab",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Go Back",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Go Forward",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "New Tab",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Reopen Closed Tab",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Select Previous Conversation",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Alt",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Select Next Conversation",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Move Conversation Up",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Move Conversation Down",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Previous Side Panel Tab",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Next Side Panel Tab",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Open Keyboard Shortcuts",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Open Settings",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Conversation",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Focus Input",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Submit Prompt (Alternate to Enter)",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Enter always submits. This adds a second shortcut.",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Jump to Previous Prompt",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Jump to Next Prompt",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Cancel Generation",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Toggle Model Selector",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Toggle Project Selector",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Toggle Environment Selector",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Toggle Voice Recording",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Mute Voice Mic",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Mute Voice Speaker",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Find in Conversation",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Find in Pane",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Add to Chat/Quote",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Comment on Selection",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Side Question Selection",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Split Conversation Horizontally",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Split Conversation Vertically",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Pin / Unpin Conversation",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Archive This Conversation",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Layout Controls",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Toggle Sidebar",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Toggle Side Panel",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Toggle Maximize Side Panel",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Toggle Overview Panel",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Toggle Terminal",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Split Terminal",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "New Terminal Tab",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Terminal: Add to Chat",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Terminal: Select All",
+    "scope": [
+      "settings/Shortcuts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Zoom In",
+    "scope": [
+      "settings/Shortcuts",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Zoom Out",
+    "scope": [
+      "settings/Shortcuts",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Reset Zoom",
+    "scope": [
+      "settings/Shortcuts",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Manage your notification preferences.",
+    "scope": [
+      "settings/Notifications"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Enable notifications for agent",
+    "scope": [
+      "settings/Notifications"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Show system notifications when your action is needed or the agent finishes.",
+    "scope": [
+      "settings/Notifications"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Sound",
+    "scope": [
+      "settings/Notifications"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Enable sounds for agent",
+    "scope": [
+      "settings/Notifications"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Play a sound when your action is needed or the agent finishes.",
+    "scope": [
+      "settings/Notifications"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Set the volume of agent sounds.",
+    "scope": [
+      "settings/Notifications"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Models & Usage",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Manage your model quota and credits.",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Plan",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Your plan:",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Google AI Pro",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "You can upgrade to a Google AI Ultra plan to receive higher rate limits.",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "A",
+    "role": "",
+    "text": "Upgrade",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Model Credits",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Enable AI credit overages",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Orchestrator Settings",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Choose the models Orchestrator uses. A larger, smarter orchestrator model with a faster, cheaper executor gives high quality for fewer tokens.",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Orchestrator Model",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Executor Model",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Carries out the plan: searches, edits, builds, and tests. Pick a faster, cheaper model.",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Gemini 4 Hydrogen",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Gemini Models",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Weekly Limit Remaining",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "You have used some of your weekly limit, it will fully refresh in 6 days, 23 hours.",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Five Hour Limit Remaining",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "You have used some of your 5-hour limit, it will fully refresh in 4 hours, 45 minutes.",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Claude and GPT models",
+    "scope": [
+      "settings/Models"
+    ]
+  },
+  {
+    "tag": "DIV",
+    "role": "",
+    "text": "Configure built-in browser, link opening, and browser subagent preferences.",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Built-in Browser",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Open links in",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Choose where links open by default when clicked.",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "External Browser",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Download location",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Folder where files downloaded in the built-in browser are saved.",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "C:\\Users\\<user>\\Downloads",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Change…",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Browsing history",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Clear visited URLs and autocomplete suggestions from the built-in browser.",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Clear",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "H3",
+    "role": "",
+    "text": "Browser Subagent",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Browser actuation rules",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Configure allowed and denied URLs for the browser subagent. It runs in the built-in browser, so no separate browser install is needed.",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "role": "",
+    "text": "Edit",
+    "scope": [
+      "settings/Browser",
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Ctrl+N",
+    "scope": [
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Create Project",
+    "scope": [
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Command Palette",
+    "scope": [
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Ctrl+Shift+P",
+    "scope": [
+      "menu/Workspace",
+      "menu/View"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Minimize",
+    "scope": [
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Maximize",
+    "scope": [
+      "menu/Window"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "role": "",
+    "text": "Close",
+    "scope": [
+      "menu/Window"
+    ]
+  }
+]
